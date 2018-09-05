@@ -1,0 +1,12 @@
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\bin\Debug\AccountSingIn.exe.config
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\bin\Debug\AccountSingIn.exe
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\bin\Debug\AccountSingIn.pdb
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\obj\Debug\AccountSingIn.Form1.resources
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\obj\Debug\AccountSingIn.Properties.Resources.resources
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\obj\Debug\AccountSingIn.csproj.GenerateResource.Cache
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\obj\Debug\AccountSingIn.csproj.CoreCompileInputs.cache
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\obj\Debug\AccountSingIn.exe
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\obj\Debug\AccountSingIn.pdb
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\obj\Debug\AccountSingIn.Form2.resources
+C:\Users\geomi\source\repos\AccountSingIn\AccountSingIn\obj\Debug\AccountSingIn.csprojResolveAssemblyReference.cache
